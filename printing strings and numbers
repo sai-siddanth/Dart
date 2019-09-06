@@ -1,5 +1,6 @@
 void main()
 {
   print('hello world');
-  print(56-455);
+  print(5);
+  print(987-345);
 }
